@@ -1,0 +1,3 @@
+# TextRotator
+
+Project is in works...
